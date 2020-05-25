@@ -19,7 +19,9 @@
     "react-helmet": "^6.0.0"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "css-loader": "^3.5.3",
+    "prettier": "2.0.5",
+    "style-loader": "^1.2.1"
   },
   "keywords": [
     "gatsby"
